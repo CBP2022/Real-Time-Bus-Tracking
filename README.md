@@ -22,3 +22,5 @@ This project will point out each bus stop every 15 seconds between MIT and Harva
 
 # [LICENSE](https://github.com/CBP2022/Real-Time-Bus-Tracking/blob/master/LICENSE)
 ![image](https://user-images.githubusercontent.com/92131037/170177019-1b6ef05f-ae92-4c0c-b948-b04cb8c7f6ea.png)
+
+# please email baopengc@yahoo.com for more information.
